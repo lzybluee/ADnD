@@ -13,7 +13,7 @@
     </OBJECT>
     <UL>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Advanced Dungeons and Dragons?">
+          <param name="Name" value="Advanced Dungeons and Dragons">
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
@@ -8975,7 +8975,7 @@
               <param name="Local" value="PHB\DD01408.htm">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Welcome to the AD&D?Game">
+              <param name="Name" value="Welcome to the AD&D Game">
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
@@ -21866,7 +21866,7 @@
                       <param name="Local" value="CBGH\DD04831.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="Gnomes in AD&D?2nd Edition">
+                      <param name="Name" value="Gnomes in AD&D 2nd Edition">
                       <param name="Local" value="CBGH\DD04832.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
@@ -22106,7 +22106,7 @@
                       <param name="Local" value="CBGH\DD04876.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="Halflings in AD&D?2nd Edition">
+                      <param name="Name" value="Halflings in AD&D 2nd Edition">
                       <param name="Local" value="CBGH\DD04877.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
@@ -23367,7 +23367,7 @@
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Appendix A: AD&D?Original Edition Druids">
+                  <param name="Name" value="Appendix A: AD&D Original Edition Druids">
                   <param name="Local" value="CDH\DD05102.htm">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
