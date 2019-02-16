@@ -8975,11 +8975,11 @@
               <param name="Local" value="PHB\DD01408.htm">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Welcome to the AD&D Game">
+              <param name="Name" value="Welcome to the AD&amp;D Game">
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Welcome to the AD&D Game">
+                  <param name="Name" value="Welcome to the AD&amp;D Game">
                   <param name="Local" value="PHB\DD01409.htm">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -8991,11 +8991,11 @@
                   <param name="Local" value="PHB\DD01411.htm">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Coming from the D&D Game">
+                  <param name="Name" value="Coming from the D&amp;D Game">
                   <param name="Local" value="PHB\DD01412.htm">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="The AD&D Game Line">
+                  <param name="Name" value="The AD&amp;D Game Line">
                   <param name="Local" value="PHB\DD01413.htm">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -14031,11 +14031,11 @@
                       <param name="Local" value="CT\DD02450.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="Standard and Optional AD&D Rules">
+                      <param name="Name" value="Standard and Optional AD&amp;D Rules">
                     </OBJECT>
                     <UL>
                         <LI><OBJECT type="text/sitemap">
-                          <param name="Name" value="Standard and Optional AD&D Rules">
+                          <param name="Name" value="Standard and Optional AD&amp;D Rules">
                           <param name="Local" value="CT\DD02451.htm">
                         </OBJECT>
                         <LI><OBJECT type="text/sitemap">
@@ -21866,7 +21866,7 @@
                       <param name="Local" value="CBGH\DD04831.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="Gnomes in AD&D 2nd Edition">
+                      <param name="Name" value="Gnomes in AD&amp;D 2nd Edition">
                       <param name="Local" value="CBGH\DD04832.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
@@ -22106,7 +22106,7 @@
                       <param name="Local" value="CBGH\DD04876.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
-                      <param name="Name" value="Halflings in AD&D 2nd Edition">
+                      <param name="Name" value="Halflings in AD&amp;D 2nd Edition">
                       <param name="Local" value="CBGH\DD04877.htm">
                     </OBJECT>
                     <LI><OBJECT type="text/sitemap">
@@ -23367,7 +23367,7 @@
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Appendix A: AD&D Original Edition Druids">
+                  <param name="Name" value="Appendix A: AD&amp;D Original Edition Druids">
                   <param name="Local" value="CDH\DD05102.htm">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -25122,7 +25122,7 @@
                   <param name="Local" value="CPaH\DD05449.htm">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Original AD&D Game Paladin">
+                  <param name="Name" value="Original AD&amp;D Game Paladin">
                   <param name="Local" value="CPaH\DD05450.htm">
                 </OBJECT>
             </UL>
@@ -26714,7 +26714,7 @@
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Appendix: AD&D 1st Edition Ranger">
+                  <param name="Name" value="Appendix: AD&amp;D 1st Edition Ranger">
                   <param name="Local" value="CRH\DD05761.htm">
                 </OBJECT>
             </UL>

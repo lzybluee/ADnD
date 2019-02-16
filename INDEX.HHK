@@ -492,8 +492,8 @@
             </OBJECT>
         </UL>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="AD&D Game Line (Player's Handbook)">
-          <param name="Name" value="AD&D Game Line (Player's Handbook)">
+          <param name="Name" value="AD&amp;D Game Line (Player's Handbook)">
+          <param name="Name" value="AD&amp;D Game Line (Player's Handbook)">
           <param name="Local" value="PHB\DD01413.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -8643,8 +8643,8 @@
           <param name="Local" value="DMG\DD00701.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Coming from the D&D Game (Player's Handbook)">
-          <param name="Name" value="Coming from the D&D Game (Player's Handbook)">
+          <param name="Name" value="Coming from the D&amp;D Game (Player's Handbook)">
+          <param name="Name" value="Coming from the D&amp;D Game (Player's Handbook)">
           <param name="Local" value="PHB\DD01412.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -13410,13 +13410,13 @@
           <param name="Local" value="CDH\DD05100.htm">
           <param name="Name" value="Chapter 4: Role-playing Druids (Comp. Druid's Handbook)">
           <param name="Local" value="CDH\DD05067.htm">
-          <param name="Name" value="Appendix A: AD&D Original Edition Druids (Comp. Druid's Handbook)">
+          <param name="Name" value="Appendix A: AD&amp;D Original Edition Druids (Comp. Druid's Handbook)">
           <param name="Local" value="CDH\DD05102.htm">
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="AD&D Original Edition Druids (Comp. Druid's Handbook)">
-              <param name="Name" value="Druids:AD&D Original Edition Druids (Comp. Druid's Handbook)">
+              <param name="Name" value="AD&amp;D Original Edition Druids (Comp. Druid's Handbook)">
+              <param name="Name" value="Druids:AD&amp;D Original Edition Druids (Comp. Druid's Handbook)">
               <param name="Local" value="CDH\DD05102.htm">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
@@ -20660,7 +20660,7 @@
           <param name="Name" value="Gnomes">
           <param name="Name" value="Gods of Gnomedom (Comp. Book of Gnomes and Halflings)">
           <param name="Local" value="CBGH\DD04835.htm">
-          <param name="Name" value="Gnomes in AD&D 2nd Edition (Comp. Book of Gnomes and Halflings)">
+          <param name="Name" value="Gnomes in AD&amp;D 2nd Edition (Comp. Book of Gnomes and Halflings)">
           <param name="Local" value="CBGH\DD04832.htm">
           <param name="Name" value="New Stuff About Gnomes (Comp. Book of Gnomes and Halflings)">
           <param name="Local" value="CBGH\DD04833.htm">
@@ -20671,8 +20671,8 @@
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Gnomes in AD&D 2nd Edition (Comp. Book of Gnomes and Halflings)">
-              <param name="Name" value="Gnomes:Gnomes in AD&D 2nd Edition (Comp. Book of Gnomes and Halflings)">
+              <param name="Name" value="Gnomes in AD&amp;D 2nd Edition (Comp. Book of Gnomes and Halflings)">
+              <param name="Name" value="Gnomes:Gnomes in AD&amp;D 2nd Edition (Comp. Book of Gnomes and Halflings)">
               <param name="Local" value="CBGH\DD04832.htm">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
@@ -22248,7 +22248,7 @@
           <param name="Name" value="Halflings">
           <param name="Name" value="A General History of the Halfling Race (Comp. Book of Gnomes and Halflings)">
           <param name="Local" value="CBGH\DD04881.htm">
-          <param name="Name" value="Halflings in AD&D 2nd Edition (Comp. Book of Gnomes and Halflings)">
+          <param name="Name" value="Halflings in AD&amp;D 2nd Edition (Comp. Book of Gnomes and Halflings)">
           <param name="Local" value="CBGH\DD04877.htm">
           <param name="Name" value="New Stuff About Halflings (Comp. Book of Gnomes and Halflings)">
           <param name="Local" value="CBGH\DD04878.htm">
@@ -22268,8 +22268,8 @@
               <param name="Local" value="CBGH\DD04881.htm">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Halflings in AD&D 2nd Edition (Comp. Book of Gnomes and Halflings)">
-              <param name="Name" value="Halflings in AD&D 2nd Edition (Comp. Book of Gnomes and Halflings)">
+              <param name="Name" value="Halflings in AD&amp;D 2nd Edition (Comp. Book of Gnomes and Halflings)">
+              <param name="Name" value="Halflings in AD&amp;D 2nd Edition (Comp. Book of Gnomes and Halflings)">
               <param name="Local" value="CBGH\DD04877.htm">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
@@ -34295,7 +34295,7 @@
           <param name="Local" value="CPaH\DD05376.htm">
           <param name="Name" value="Detect Evil Intent (Comp. Paladin's Handbook)">
           <param name="Local" value="CPaH\DD05377.htm">
-          <param name="Name" value="Appendix: Original AD&D Game Paladin (Comp. Paladin's Handbook)">
+          <param name="Name" value="Appendix: Original AD&amp;D Game Paladin (Comp. Paladin's Handbook)">
           <param name="Local" value="CPaH\DD05450.htm">
           <param name="Name" value="Chapter 3: Ethos (Comp. Paladin's Handbook)">
           <param name="Local" value="CPaH\DD05387.htm">
@@ -34392,8 +34392,8 @@
               <param name="Local" value="CPaH\DD05373.htm">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Original AD&D Game Paladin (Comp. Paladin's Handbook)">
-              <param name="Name" value="Original AD&D Game Paladin (Comp. Paladin's Handbook)">
+              <param name="Name" value="Original AD&amp;D Game Paladin (Comp. Paladin's Handbook)">
+              <param name="Name" value="Original AD&amp;D Game Paladin (Comp. Paladin's Handbook)">
               <param name="Local" value="CPaH\DD05450.htm">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
@@ -40119,7 +40119,7 @@
           <param name="Name" value="Rangers">
           <param name="Name" value="Rangers and Clerics (Comp. Ranger's Handbook)">
           <param name="Local" value="CRH\DD05755.htm">
-          <param name="Name" value="Appendix: AD&D 1st Edition Ranger (Comp. Ranger's Handbook)">
+          <param name="Name" value="Appendix: AD&amp;D 1st Edition Ranger (Comp. Ranger's Handbook)">
           <param name="Local" value="CRH\DD05761.htm">
           <param name="Name" value="Demi-Rangers (Comp. Ranger's Handbook)">
           <param name="Local" value="CRH\DD05726.htm">
@@ -47062,8 +47062,8 @@
           <param name="Local" value="SP\DD02868.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Standard and Optional AD&D Rules (Combat and Tactics)">
-          <param name="Name" value="Standard and Optional AD&D Rules (Combat and Tactics)">
+          <param name="Name" value="Standard and Optional AD&amp;D Rules (Combat and Tactics)">
+          <param name="Name" value="Standard and Optional AD&amp;D Rules (Combat and Tactics)">
           <param name="Local" value="CT\DD02451.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -55133,8 +55133,8 @@
           <param name="Local" value="PHB\DD02118.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Welcome to the AD&D Game (Player's Handbook)">
-          <param name="Name" value="Welcome to the AD&D Game (Player's Handbook)">
+          <param name="Name" value="Welcome to the AD&amp;D Game (Player's Handbook)">
+          <param name="Name" value="Welcome to the AD&amp;D Game (Player's Handbook)">
           <param name="Local" value="PHB\DD01409.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
